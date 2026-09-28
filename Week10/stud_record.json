@@ -1,0 +1,9 @@
+{
+    "name": "Agentic AI",
+    "age": 15,
+    "Subjects": [
+        "Math",
+        "Science"
+    ],
+    "is_Student": true
+}
